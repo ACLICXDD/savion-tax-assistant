@@ -33,3 +33,5 @@ pip install -e .
 
 # 4️⃣  Set your LLM API key (Groq/OpenAI)
 echo "LLM_API_KEY=gsk_your_groq_key_here" > .env
+<img width="920" height="646" alt="image" src="https://github.com/user-attachments/assets/b0dda05c-5f6b-46ff-bdf5-f54f8c5bb491" />
+
