@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "savion"
+version = "0.1.0"
+description = "A tool to analyze bank statements and suggest tax-saving investments under Indian Income Tax Sections 80C & 80D."
+authors = [{ name = "Your Name", email = "you@example.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+dependencies = [
+  "pandas>=1.5.0",
+  "typer>=0.9.0",
+  "pyyaml>=6.0",
+  "jinja2>=3.1.0",
+  "pytest>=7.0.0",
+  "python-dotenv>=1.0.0"
+]
+
+[project.scripts]
+savion = "savion.main:app"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["savion*"]

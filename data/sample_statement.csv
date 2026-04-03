@@ -1,0 +1,11 @@
+Date,Description,Amount,Type
+2023-01-15,EPF Contribution,1500.00,Debit
+2023-02-10,Life Insurance Premium,5000.00,Debit
+2023-03-05,Medical Insurance Premium - Self,2500.00,Debit
+2023-04-12,Medical Insurance Premium - Parents,3000.00,Debit
+2023-05-20,PPF Deposit,50000.00,Debit
+2023-06-25,Salary,120000.00,Credit
+2023-07-10,ELSS Purchase,30000.00,Debit
+2023-08-15,Rent,20000.00,Debit
+2023-09-05,Utility Bill,5000.00,Debit
+2023-10-12,Dividend,8000.00,Credit

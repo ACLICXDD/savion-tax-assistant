@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: savion
+Version: 0.1.0
+Summary: A tool to analyze bank statements and suggest tax-saving investments under Indian Income Tax Sections 80C & 80D.
+Author-email: Your Name <you@example.com>
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: typer>=0.9.0
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: jinja2>=3.1.0
+Requires-Dist: pytest>=7.0.0
+Requires-Dist: python-dotenv>=1.0.0

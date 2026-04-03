@@ -1,0 +1,17 @@
+/* Color Definitions for Savion HTML Reports */
+
+:root {
+  --primary-emerald: #10B981;         /* Emerald Green */
+  --secondary-blue: #1E3A8A;          /* Deep Blue */
+  --background-dark: #0B0F19;         /* Dark background */
+  --accent-violet: #7C3AED;           /* Violet/Indigo */
+  --positive-green: #22C55E;          /* Tax saved */
+  --negative-red: #EF4444;            /* Missed opportunity */
+  --warning-orange: #F59E0B;          /* Partial usage */
+  --card-bg: #111827;                 /* Card/container background */
+  --button-primary: #10B981;          /* Save/Optimize button */
+  --button-secondary: #1E3A8A;        /* Cancel/Reset button */
+  --chart-used: #22C55E;              /* Utilized deductions */
+  --chart-unused: #EF4444;            /* Unused potential */
+  --chart-suggestion: #7C3AED;        /* AI suggestions */
+}

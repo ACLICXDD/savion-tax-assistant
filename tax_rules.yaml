@@ -1,0 +1,24 @@
+# tax_rules.yaml
+
+sections:
+  80C:
+    limit: 150000
+    instruments:
+      - "ppf"
+      - "elss"
+      - "fd"
+      - "nsc"
+      - "ulip"
+      - "epf"
+      - "sgb"
+      - "nps"
+      - "tax_saving_fd"
+      - "lic"
+  80D:
+    self_limit: 25000
+    parents_limit: 25000
+    senior_citizen_extra: 5000
+    instruments:
+      - "health_insurance"
+      - "mediclaim"
+      - "preventive_health_checkup"
